@@ -1,5 +1,6 @@
-![122](https://user-images.githubusercontent.com/93880188/149636762-6034f440-8d92-45ae-a621-e264319f462e.gif)
-<h1 align="center">Hi 👋, I'm Kaivalya Patil</h1>
+
+<h1 align="center">Hi 👋, I'm Kaivalya Patil</h1>![developer-dribbble](https://user-images.githubusercontent.com/93880188/149636819-45a11580-126a-4ad3-b2a8-2a398a91a82e.gif)
+
 <h3 align="center">A passionate Web developer from India</h3>
 
 - 🔭 I’m currently working on **learning everything 🤣**
