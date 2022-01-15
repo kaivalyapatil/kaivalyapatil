@@ -1,5 +1,7 @@
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93880188/149637134-7b2a0456-4cd2-42c3-8c22-a8d5a9357bcc.gif)
 
-<h1 align="center">Hi 👋, I'm Kaivalya Patil</h1>![developer-dribbble](https://user-images.githubusercontent.com/93880188/149636819-45a11580-126a-4ad3-b2a8-2a398a91a82e.gif)
+
+<h1 align="center">Hi 👋, I'm Kaivalya Patil</h1>
 
 <h3 align="center">A passionate Web developer from India</h3>
 
