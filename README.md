@@ -1,6 +1,6 @@
-### Hello World, I'm Anna  👋
+### Hello, I'm Kaivalya Patil  👋
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/93880188/149637134-7b2a0456-4cd2-42c3-8c22-a8d5a9357bcc.gif?raw=true" width="500" height="320" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
