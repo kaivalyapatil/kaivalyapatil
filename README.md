@@ -5,8 +5,6 @@
 
 ## A passionate Web developer...
 
-- 🔭 I’m currently working on **learning everything 🤣**
-
 - 🥅 2022 Goals: **Increase my professional network**
 
 - 👯 I’m enthusiastic about **cloud computing**
