@@ -5,7 +5,7 @@
 
 ## A passionate Web developer...
 
-- 🥅 2022 Goals: **Increase my professional network**
+- 🥅 2022 Goal: **Increase my professional network**
 
 - 👯 I’m enthusiastic about **cloud computing**
 
