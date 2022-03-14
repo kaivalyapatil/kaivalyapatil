@@ -38,7 +38,7 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Kaivalya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kaivalyapatil&show_icons=true&hide_border=true" />
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kaivalya-patil-180457149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kaivalya-patil-180457149?trk=profile-badge">kaivalya patil</a></div>
+
               
 </details>
 
